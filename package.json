@@ -1,0 +1,13 @@
+{
+  "name": "time-balance",
+  "version": "1.0.0",
+  "description": "this is a module that allows you to compare 2 UTC times and give the difference in human readable form",
+  "main": "dist/index.js",
+  "repository": "https://github.com/saisumith770/time-balance.git",
+  "author": "sai sumith",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+    "dev":"node dist/index.js"
+  }
+}
